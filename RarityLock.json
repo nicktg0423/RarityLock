@@ -1,0 +1,15 @@
+{
+    "id": "RarityLock",
+    "name": "RarityLock",
+    "author": ["NickTG"],
+    "description": "Locks every Joker that spawns to a single chosen rarity (Common, Uncommon, Rare, or Legendary). Built for rarity-restricted challenge runs.",
+    "prefix": "rlock",
+    "main_file": "RarityLock.lua",
+    "priority": 0,
+    "badge_colour": "4A9EFF",
+    "display_name": "RarityLock",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-0400a)"
+    ]
+}
